@@ -37,7 +37,7 @@ Winning Percentage: 73.8%
 ----------
 
 ## Summary
-- This Python script can be used for any election without any modification, given that provided dataset follows same structure as current one.
+- This Python script can be used for any election without any modification, given that provided dataset follows same structure as current one. These code blocks have been written to generally apply to any election, and could perform their counts for varying numbers of counties and candidates with ease. 
 
 - With little modifications, one can add more information to audit such as voter's age, sex and race. This would require additional dictionaries and script block for each category desired.
 
